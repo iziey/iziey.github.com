@@ -1,17 +1,19 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+author = "Hugo Authors 한글"
+title = "Markdown Syntax Guide 한글"
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements. 한글"
 tags = [
     "markdown",
     "css",
     "html",
     "themes",
+    "한글태그"
 ]
 categories = [
     "themes",
     "syntax",
+    "한글분류"
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
