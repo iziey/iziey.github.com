@@ -2,6 +2,7 @@ baseURL = 'https://iziey.github.io/'
 languageCode = 'ko-kr'
 title = 'Noisy Iziey'
 enableInlineShortcodes = true
+disqusShortname = "iziey-github-io"
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-FAKE" ## or "G-xxxxxxxx" in Google Analytics v4, in hugo v0.82+
 hasCJKLanguage = true
